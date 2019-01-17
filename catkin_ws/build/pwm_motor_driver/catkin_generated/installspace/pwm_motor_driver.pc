@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/install
+
+Name: pwm_motor_driver
+Description: Description of pwm_motor_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/catkin_ws/install/lib 
+Requires: 
