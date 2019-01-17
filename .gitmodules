@@ -1,3 +1,6 @@
-[submodule "src/raspicam_node"]
-	path = src/raspicam_node
+[submodule "catkin_ws/src/raspicam_node"]
+	path = catkin_ws/src/raspicam_node
 	url = https://github.com/UbiquityRobotics/raspicam_node.git
+[submodule "catkin_ws/src/apriltags_ros"]
+	path = catkin_ws/src/apriltags_ros
+	url = https://github.com/RIVeR-Lab/apriltags_ros.git
